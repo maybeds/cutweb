@@ -1,0 +1,16 @@
+# 
+/
+target
+logs
+.classpath
+.project
+.settings
+.DS_Store
+.idea
+.svn
+*.iml
+.metadata
+resourceCenter.iml
+.bash_profile
+resourceCenter.ipr
+resourceCenter.iws
